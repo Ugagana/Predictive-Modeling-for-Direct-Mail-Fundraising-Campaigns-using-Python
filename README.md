@@ -1,0 +1,2 @@
+# Predictive-Modeling-for-Direct-Mail-Fundraising-Campaigns-using-Python
+This project aims to develop a predictive model to enhance the cost-effectiveness of direct-mail fundraising campaigns for a national veteran's organization. By utilizing various machine learning techniques, including Random Forest Classifier, we analyze donor behavior to maximize fundraising outcomes and optimize resource allocation.
